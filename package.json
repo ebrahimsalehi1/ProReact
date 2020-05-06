@@ -1,0 +1,32 @@
+{
+  "name": "pro-react",
+  "version": "1.0.0",
+  "description": "Here I Have a project from Pro React book- Build complex front-end applications in a composable way with React",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebrahimsalehi1/ProReact.git"
+  },
+  "author": "Ebrahim Salehi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebrahimsalehi1/ProReact/issues"
+  },
+  "homepage": "https://github.com/ebrahimsalehi1/ProReact#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "react-scripts": "^3.4.1",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
